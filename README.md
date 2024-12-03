@@ -24,10 +24,6 @@ The data for this competition is available at [Kaggle Titanic Competition](https
 
 2. **Download the data** from the Kaggle competition page and place the files in root directory.
 
-# Titanic: Machine Learning from Disaster
-
-This repository is dedicated to the Kaggle competition "Titanic: Machine Learning from Disaster". The goal of this project is to predict the survival of passengers on the Titanic using various machine learning models.
-
 ## Contributions
 
 This repository is intended for educational purposes and personal growth in the field of data science and machine learning. Contributions and suggestions are welcome.
