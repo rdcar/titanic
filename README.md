@@ -28,18 +28,6 @@ The data for this competition is available at [Kaggle Titanic Competition](https
 
 This repository is dedicated to the Kaggle competition "Titanic: Machine Learning from Disaster". The goal of this project is to predict the survival of passengers on the Titanic using various machine learning models.
 
-## Project Overview
-
-The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the RMS Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
-
-One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
-
-In this project, we aim to apply machine learning techniques to predict the likelihood of survival based on passenger data.
-
-## Data
-
-The data for this competition is available at [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic/data). It includes information about the passengers, such as age, sex, class, and more.
-
 ## Contributions
 
 This repository is intended for educational purposes and personal growth in the field of data science and machine learning. Contributions and suggestions are welcome.
@@ -52,7 +40,3 @@ This repository is intended for educational purposes and personal growth in the 
 ## Future Work
 
 As my studies progress, I will continuously improve the hyperparameters of the models and experiment with different algorithms to enhance the prediction accuracy. This repository will be updated with these improvements.
-
----
-
-Happy Coding!
