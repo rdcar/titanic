@@ -18,8 +18,8 @@ The data for this competition is available at [Kaggle Titanic Competition](https
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/titanic-ml-competition.git
-    cd titanic-ml-competition
+    git clone https://github.com/yourusername/titanic.git
+    cd titanic
     ```
 
 2. **Download the data** from the Kaggle competition page and place the files in root directory.
@@ -39,18 +39,6 @@ In this project, we aim to apply machine learning techniques to predict the like
 ## Data
 
 The data for this competition is available at [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic/data). It includes information about the passengers, such as age, sex, class, and more.
-
-## Getting Started
-
-3. **Clone the repository**:
-    ```bash
-    git clone https://github.com/rdcar/titanic.git
-    cd titanic
-    ```
-
-## Future Work
-
-As my studies progress, I will continuously improve the hyperparameters of the models and experiment with different algorithms to enhance the prediction accuracy. This repository will be updated with these improvements.
 
 ## Contributions
 
